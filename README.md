@@ -2,6 +2,9 @@
 
 plasma é uma matemática infinita de cálculos transcruptcionais 
 
+- vc pode modificar e dar novos valarores aos ketrais ele não é só um plasma no operador de transporte ou no resultado mais sim como se auto adptar valores, seja revertido, misturado,ou qualquer outra jeito 😉
+
+
 
 bom vamos começar --
 
